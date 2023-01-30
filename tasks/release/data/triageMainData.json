@@ -1,0 +1,22 @@
+{
+  "23f1f3299e65868ec9ddbacd4f343bf119040f44": {
+    "message": "Revert \"chore: run checks on merge queues\"",
+    "needsCherryPick": false
+  },
+  "a51352635aa09c680d257315510136e0a00d10fb": {
+    "message": "chore: run checks on merge queues",
+    "needsCherryPick": false
+  },
+  "836eb2d93a65fc55966695d56803c11a40f6b478": {
+    "message": "chore(deps): update dependency @types/react to v18.0.28 (#7620)",
+    "needsCherryPick": false
+  },
+  "c58b39cf9cf838775007e969db90f4b4fb3a0bf6": {
+    "message": "chore(deps): update dependency @types/react-dom to v18.0.11 (#7644)",
+    "needsCherryPick": false
+  },
+  "f044dcd5d2412d14db818ae97e9f8f76f778b4e0": {
+    "message": "chore(deps): bump setup of Chakra UI to V2 (#7649)",
+    "needsCherryPick": false
+  }
+}
